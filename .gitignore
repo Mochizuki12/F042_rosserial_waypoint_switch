@@ -1,3 +1,4 @@
 ROS_test.launch
 .mxproject
 Debug/*
+.settings/*
